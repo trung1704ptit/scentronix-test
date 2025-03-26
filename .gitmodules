@@ -1,0 +1,6 @@
+[submodule "test-submodules"]
+	path = test-submodules
+	url = https://github.com/trung1704ptit/test-submodules.git
+[submodule "thrivesquare"]
+	path = thrivesquare
+	url = https://github.com/trung1704ptit/test-submodules.git
